@@ -1,0 +1,251 @@
+Customer_ID,Age,Gender,Region,Monthly_Income,Favorite_Product_Category,Number_of_Purchases,Total_Spend,Satisfaction_Score
+CUST0001,58,Male,Nairobi,138946,Home & Living,8,39592,1
+CUST0002,25,Male,Mombasa,91019,Groceries,5,27243,4
+CUST0003,19,Female,Nakuru,100379,Health & Beauty,19,35338,5
+CUST0004,65,Male,Eldoret,85903,Groceries,7,6154,3
+CUST0005,35,Male,Nairobi,80434,Electronics,3,26936,2
+CUST0006,33,Female,Nakuru,51629,Groceries,18,21334,4
+CUST0007,32,Female,Nakuru,70484,Groceries,7,49877,1
+CUST0008,26,Male,Eldoret,102719,Health & Beauty,19,23250,3
+CUST0009,65,Male,Mombasa,51340,Health & Beauty,7,15520,2
+CUST0010,24,Female,Nakuru,160473,Home & Living,8,22827,1
+CUST0011,61,Male,Nakuru,68535,Fashion,11,12018,3
+CUST0012,65,Female,Nakuru,70211,Home & Living,5,6005,1
+CUST0013,52,Female,Mombasa,76723,Health & Beauty,20,34455,3
+CUST0014,23,Male,Mombasa,146929,Home & Living,1,42499,2
+CUST0015,55,Male,Nairobi,92482,Groceries,9,8472,2
+CUST0016,45,Male,Nairobi,174556,Groceries,5,35773,1
+CUST0017,20,Female,Nakuru,157530,Health & Beauty,5,34420,3
+CUST0018,19,Female,Mombasa,176445,Health & Beauty,18,13707,4
+CUST0019,23,Female,Mombasa,94186,Home & Living,9,23896,2
+CUST0020,31,Female,Eldoret,46352,Home & Living,6,24009,4
+CUST0021,32,Female,Nakuru,70886,Groceries,4,48669,4
+CUST0022,50,Male,Nairobi,97659,Fashion,1,43299,5
+CUST0023,56,Male,Eldoret,79633,Fashion,5,10679,1
+CUST0024,19,Male,Mombasa,114602,Health & Beauty,1,16484,1
+CUST0025,53,Female,Nairobi,67039,Home & Living,12,7737,1
+CUST0026,30,Female,Nakuru,99237,Fashion,8,10597,3
+CUST0027,63,Male,Mombasa,23708,Home & Living,19,17775,2
+CUST0028,59,Male,Nakuru,160020,Electronics,11,13928,2
+CUST0029,62,Male,Eldoret,53182,Groceries,1,12370,5
+CUST0030,52,Male,Eldoret,91909,Home & Living,6,40478,5
+CUST0031,44,Female,Eldoret,31931,Home & Living,9,11018,5
+CUST0032,32,Male,Kisumu,34293,Home & Living,2,43959,4
+CUST0033,46,Female,Nakuru,165059,Fashion,5,5938,1
+CUST0034,55,Male,Eldoret,96581,Home & Living,14,12609,3
+CUST0035,35,Female,Eldoret,53103,Electronics,17,42153,2
+CUST0036,18,Female,Nakuru,187213,Fashion,4,33382,3
+CUST0037,28,Male,Eldoret,148680,Health & Beauty,3,31405,1
+CUST0038,62,Male,Nakuru,46892,Health & Beauty,16,37944,1
+CUST0039,45,Female,Mombasa,23215,Groceries,15,38976,2
+CUST0040,39,Male,Nakuru,170487,Electronics,12,30419,4
+CUST0041,35,Male,Nakuru,94537,Home & Living,17,45638,5
+CUST0042,27,Male,Kisumu,143049,Electronics,19,37994,4
+CUST0043,31,Male,Mombasa,145492,Health & Beauty,4,43139,1
+CUST0044,39,Male,Kisumu,135466,Home & Living,15,42634,1
+CUST0045,24,Male,Eldoret,109314,Electronics,17,41928,4
+CUST0046,23,Female,Nakuru,68329,Fashion,8,22181,5
+CUST0047,42,Female,Mombasa,33468,Home & Living,20,42105,5
+CUST0048,24,Female,Kisumu,86185,Fashion,2,21718,1
+CUST0049,40,Male,Nakuru,145233,Electronics,17,10893,5
+CUST0050,40,Female,Nairobi,49907,Home & Living,10,29820,5
+CUST0051,56,Male,Kisumu,37129,Groceries,15,5475,2
+CUST0052,34,Male,Mombasa,125043,Groceries,1,31731,2
+CUST0053,20,Female,Kisumu,148908,Health & Beauty,2,29980,3
+CUST0054,64,Male,Kisumu,39420,Home & Living,16,42378,4
+CUST0055,47,Female,Kisumu,171262,Electronics,13,20845,1
+CUST0056,52,Female,Eldoret,185005,Groceries,14,19001,5
+CUST0057,25,Female,Nairobi,199949,Health & Beauty,4,39759,3
+CUST0058,42,Female,Mombasa,34053,Home & Living,16,4681,2
+CUST0059,23,Female,Mombasa,59774,Groceries,15,24064,5
+CUST0060,53,Female,Mombasa,59111,Home & Living,3,34248,4
+CUST0061,36,Male,Nakuru,167545,Health & Beauty,3,5862,2
+CUST0062,58,Male,Mombasa,99648,Electronics,11,21342,1
+CUST0063,57,Female,Mombasa,42329,Health & Beauty,20,31260,5
+CUST0064,41,Male,Nairobi,85061,Electronics,5,30616,3
+CUST0065,54,Male,Nakuru,51051,Fashion,3,3464,1
+CUST0066,30,Male,Nakuru,166295,Groceries,5,4728,5
+CUST0067,63,Female,Kisumu,129097,Fashion,9,25165,5
+CUST0068,22,Male,Eldoret,178942,Electronics,20,19813,5
+CUST0069,20,Male,Nakuru,176271,Home & Living,19,6028,5
+CUST0070,60,Female,Nakuru,182114,Electronics,18,43248,5
+CUST0071,32,Male,Nairobi,79162,Electronics,11,6917,1
+CUST0072,36,Male,Mombasa,156989,Home & Living,13,41305,4
+CUST0073,23,Male,Nakuru,119713,Fashion,20,39933,4
+CUST0074,32,Male,Nakuru,138099,Groceries,17,34231,1
+CUST0075,24,Male,Eldoret,136056,Electronics,10,26197,4
+CUST0076,42,Male,Nairobi,97949,Electronics,15,31324,3
+CUST0077,35,Male,Eldoret,174278,Groceries,17,39032,3
+CUST0078,47,Female,Nakuru,132415,Electronics,20,37327,1
+CUST0079,58,Male,Nakuru,100053,Groceries,14,49425,3
+CUST0080,41,Male,Nairobi,169062,Groceries,4,3688,1
+CUST0081,28,Male,Kisumu,182798,Groceries,4,30473,3
+CUST0082,41,Male,Kisumu,35789,Home & Living,18,38464,2
+CUST0083,40,Female,Nakuru,179811,Fashion,7,43718,1
+CUST0084,31,Female,Nakuru,46013,Fashion,14,13336,5
+CUST0085,60,Female,Eldoret,74470,Health & Beauty,15,22071,3
+CUST0086,35,Male,Eldoret,183975,Home & Living,8,40649,2
+CUST0087,62,Female,Eldoret,75318,Health & Beauty,14,32170,1
+CUST0088,61,Male,Mombasa,89375,Fashion,11,33857,3
+CUST0089,59,Female,Nakuru,193127,Fashion,15,10886,5
+CUST0090,22,Female,Mombasa,41282,Fashion,13,5054,3
+CUST0091,56,Male,Kisumu,61171,Electronics,14,30525,2
+CUST0092,58,Female,Nakuru,82879,Health & Beauty,4,7783,4
+CUST0093,28,Female,Nakuru,65564,Home & Living,11,23507,4
+CUST0094,52,Female,Nairobi,164701,Health & Beauty,14,47813,2
+CUST0095,64,Male,Nakuru,39677,Fashion,11,6526,2
+CUST0096,33,Male,Kisumu,61034,Home & Living,9,34066,1
+CUST0097,28,Female,Nakuru,20701,Health & Beauty,12,43344,4
+CUST0098,47,Male,Mombasa,127090,Fashion,5,12308,1
+CUST0099,42,Male,Nakuru,138096,Fashion,16,3565,3
+CUST0100,35,Male,Mombasa,175664,Home & Living,3,17236,2
+CUST0101,58,Female,Eldoret,143184,Groceries,3,47374,1
+CUST0102,62,Male,Eldoret,96351,Home & Living,3,29688,2
+CUST0103,53,Female,Nairobi,28556,Groceries,3,29797,1
+CUST0104,32,Male,Nakuru,80680,Electronics,14,35345,3
+CUST0105,61,Male,Eldoret,95524,Home & Living,4,35258,3
+CUST0106,38,Female,Eldoret,94112,Groceries,12,40964,5
+CUST0107,21,Female,Nairobi,139021,Health & Beauty,5,11403,4
+CUST0108,32,Male,Nairobi,38659,Fashion,18,24848,5
+CUST0109,20,Female,Nakuru,81190,Electronics,2,25435,4
+CUST0110,38,Female,Mombasa,89351,Home & Living,19,19539,3
+CUST0111,43,Male,Nakuru,183855,Groceries,18,26389,1
+CUST0112,35,Female,Mombasa,174609,Health & Beauty,18,27789,2
+CUST0113,22,Male,Nairobi,193325,Groceries,11,23175,3
+CUST0114,31,Male,Kisumu,71857,Home & Living,4,45492,3
+CUST0115,54,Female,Nakuru,131447,Groceries,14,40183,1
+CUST0116,63,Male,Kisumu,50087,Home & Living,12,4431,3
+CUST0117,38,Male,Mombasa,162753,Groceries,14,42345,3
+CUST0118,31,Male,Nakuru,78932,Fashion,2,43421,1
+CUST0119,59,Female,Kisumu,189773,Home & Living,10,22931,3
+CUST0120,49,Female,Kisumu,59056,Home & Living,20,5319,4
+CUST0121,43,Male,Nakuru,89633,Electronics,10,22606,4
+CUST0122,59,Female,Kisumu,57286,Fashion,12,7193,4
+CUST0123,47,Male,Nakuru,38719,Home & Living,4,37566,4
+CUST0124,27,Female,Kisumu,35633,Health & Beauty,19,45458,3
+CUST0125,34,Female,Nairobi,63495,Groceries,17,26333,2
+CUST0126,26,Female,Nakuru,100638,Health & Beauty,7,19621,4
+CUST0127,33,Male,Nairobi,175987,Groceries,5,17514,4
+CUST0128,65,Male,Eldoret,169214,Groceries,16,48430,3
+CUST0129,53,Female,Nairobi,95657,Electronics,8,44028,5
+CUST0130,52,Female,Kisumu,135121,Home & Living,4,40498,3
+CUST0131,34,Male,Mombasa,52598,Groceries,12,10854,1
+CUST0132,65,Male,Nairobi,142866,Electronics,18,22847,4
+CUST0133,55,Female,Nairobi,99715,Health & Beauty,12,6341,1
+CUST0134,45,Male,Nairobi,125515,Electronics,4,39190,4
+CUST0135,55,Female,Mombasa,91367,Health & Beauty,9,44490,5
+CUST0136,43,Male,Mombasa,151195,Home & Living,19,10268,2
+CUST0137,41,Female,Nairobi,161552,Groceries,8,23925,5
+CUST0138,32,Female,Eldoret,149445,Fashion,14,21331,3
+CUST0139,26,Male,Mombasa,134755,Health & Beauty,18,43995,3
+CUST0140,50,Male,Mombasa,41087,Groceries,20,46775,1
+CUST0141,49,Male,Mombasa,176771,Fashion,20,44393,1
+CUST0142,23,Male,Nakuru,30449,Fashion,18,26687,3
+CUST0143,21,Male,Nairobi,133253,Health & Beauty,1,9450,3
+CUST0144,25,Female,Eldoret,104494,Groceries,20,39996,3
+CUST0145,27,Male,Mombasa,178259,Fashion,9,47454,4
+CUST0146,58,Female,Nakuru,85632,Electronics,1,6552,5
+CUST0147,28,Male,Kisumu,26780,Electronics,6,21288,4
+CUST0148,61,Male,Kisumu,43940,Groceries,9,37629,2
+CUST0149,45,Female,Mombasa,80011,Home & Living,10,25686,4
+CUST0150,56,Female,Eldoret,196763,Electronics,11,43171,3
+CUST0151,22,Male,Eldoret,170784,Health & Beauty,12,22527,4
+CUST0152,42,Female,Nairobi,173910,Groceries,1,9375,1
+CUST0153,42,Male,Mombasa,25438,Fashion,6,44916,3
+CUST0154,56,Male,Kisumu,196234,Electronics,5,47060,5
+CUST0155,47,Male,Nairobi,90650,Groceries,19,49416,4
+CUST0156,51,Female,Eldoret,171059,Groceries,13,45919,3
+CUST0157,34,Female,Nairobi,30546,Home & Living,3,35497,1
+CUST0158,53,Male,Kisumu,65925,Fashion,5,7124,1
+CUST0159,18,Male,Eldoret,143338,Fashion,1,43337,4
+CUST0160,61,Male,Nakuru,156043,Fashion,3,44939,3
+CUST0161,64,Male,Nakuru,190789,Health & Beauty,17,28748,5
+CUST0162,25,Female,Mombasa,135927,Groceries,7,34324,2
+CUST0163,61,Male,Nairobi,92917,Health & Beauty,13,24712,1
+CUST0164,52,Male,Eldoret,67576,Health & Beauty,14,2194,2
+CUST0165,35,Female,Mombasa,173440,Groceries,15,24763,5
+CUST0166,59,Female,Nairobi,134264,Fashion,11,21241,4
+CUST0167,39,Male,Kisumu,186405,Groceries,6,12813,1
+CUST0168,25,Female,Eldoret,148902,Home & Living,12,15037,2
+CUST0169,36,Male,Nairobi,43918,Groceries,10,23395,1
+CUST0170,45,Male,Eldoret,143210,Groceries,11,32868,2
+CUST0171,28,Female,Nairobi,111215,Electronics,19,13583,3
+CUST0172,47,Male,Kisumu,127046,Home & Living,20,15846,3
+CUST0173,18,Female,Eldoret,107374,Electronics,3,10015,4
+CUST0174,64,Male,Nakuru,104163,Fashion,2,11154,5
+CUST0175,64,Male,Kisumu,195671,Fashion,5,6057,1
+CUST0176,34,Female,Nairobi,47420,Home & Living,6,20385,5
+CUST0177,50,Female,Eldoret,62159,Health & Beauty,20,7628,2
+CUST0178,29,Female,Kisumu,106456,Groceries,2,34271,4
+CUST0179,50,Male,Nairobi,127910,Electronics,3,36374,3
+CUST0180,24,Male,Nakuru,149884,Home & Living,9,49407,3
+CUST0181,58,Male,Nakuru,95554,Electronics,15,35506,4
+CUST0182,37,Male,Nairobi,193692,Groceries,14,3473,1
+CUST0183,58,Female,Nakuru,124976,Health & Beauty,16,44380,5
+CUST0184,50,Female,Kisumu,164204,Electronics,20,23070,2
+CUST0185,56,Female,Nakuru,29619,Home & Living,15,41503,5
+CUST0186,30,Male,Mombasa,139229,Groceries,14,9588,3
+CUST0187,27,Female,Nakuru,43084,Groceries,9,40141,4
+CUST0188,41,Female,Mombasa,102448,Health & Beauty,7,25688,3
+CUST0189,28,Female,Eldoret,86164,Home & Living,17,11109,3
+CUST0190,52,Female,Kisumu,104744,Groceries,4,11633,2
+CUST0191,51,Male,Eldoret,50388,Electronics,12,12851,1
+CUST0192,18,Male,Eldoret,125952,Fashion,14,46406,1
+CUST0193,56,Female,Nakuru,154898,Home & Living,4,41942,2
+CUST0194,38,Male,Nakuru,20301,Electronics,10,11848,4
+CUST0195,49,Female,Nakuru,192401,Health & Beauty,19,48263,5
+CUST0196,19,Male,Eldoret,162237,Health & Beauty,16,29683,4
+CUST0197,25,Male,Kisumu,141104,Groceries,17,3863,5
+CUST0198,41,Female,Kisumu,128330,Health & Beauty,10,27926,1
+CUST0199,37,Female,Mombasa,34209,Fashion,2,24874,3
+CUST0200,33,Female,Nairobi,69173,Electronics,8,45326,3
+CUST0201,21,Female,Kisumu,155905,Home & Living,13,48158,4
+CUST0202,33,Male,Nakuru,114838,Groceries,20,16566,2
+CUST0203,54,Female,Mombasa,183219,Home & Living,2,30111,5
+CUST0204,23,Male,Nakuru,150676,Electronics,1,41015,3
+CUST0205,23,Female,Eldoret,183947,Fashion,7,19673,4
+CUST0206,64,Male,Eldoret,135878,Electronics,10,30420,2
+CUST0207,49,Female,Nakuru,33529,Electronics,7,16335,1
+CUST0208,22,Male,Kisumu,73361,Groceries,5,35996,2
+CUST0209,52,Male,Nairobi,90007,Home & Living,9,16674,1
+CUST0210,26,Female,Nakuru,163974,Electronics,10,21281,4
+CUST0211,26,Female,Kisumu,54344,Electronics,11,31737,2
+CUST0212,60,Male,Mombasa,95505,Fashion,4,13715,4
+CUST0213,48,Female,Nakuru,134849,Health & Beauty,1,25106,1
+CUST0214,53,Female,Mombasa,147064,Fashion,16,45453,3
+CUST0215,28,Male,Kisumu,51831,Home & Living,14,38383,3
+CUST0216,34,Female,Kisumu,27567,Home & Living,6,29874,1
+CUST0217,51,Female,Kisumu,185156,Groceries,5,31256,5
+CUST0218,56,Female,Kisumu,179612,Health & Beauty,13,19466,5
+CUST0219,45,Female,Eldoret,82730,Home & Living,18,26026,3
+CUST0220,31,Female,Kisumu,61517,Health & Beauty,8,33958,3
+CUST0221,52,Female,Eldoret,101461,Fashion,17,35567,2
+CUST0222,64,Male,Nairobi,164399,Home & Living,18,28437,2
+CUST0223,62,Male,Eldoret,23584,Electronics,12,11620,3
+CUST0224,30,Female,Mombasa,164769,Home & Living,3,14087,5
+CUST0225,63,Female,Nairobi,126952,Health & Beauty,13,40627,2
+CUST0226,37,Male,Mombasa,44434,Home & Living,2,10070,1
+CUST0227,43,Female,Nakuru,78903,Groceries,14,17384,2
+CUST0228,60,Female,Nakuru,49743,Electronics,1,4419,2
+CUST0229,59,Male,Eldoret,140965,Groceries,15,43020,2
+CUST0230,41,Female,Mombasa,50793,Fashion,3,32495,4
+CUST0231,46,Female,Nakuru,189793,Home & Living,11,25327,1
+CUST0232,51,Male,Nakuru,60362,Home & Living,19,37342,3
+CUST0233,46,Female,Nakuru,150646,Fashion,14,7723,5
+CUST0234,25,Female,Nairobi,96509,Groceries,19,47622,5
+CUST0235,33,Female,Nairobi,153397,Electronics,13,34810,3
+CUST0236,32,Female,Kisumu,91676,Groceries,14,9170,4
+CUST0237,22,Female,Mombasa,128918,Health & Beauty,10,19681,5
+CUST0238,39,Male,Nakuru,146484,Groceries,4,6496,2
+CUST0239,19,Female,Mombasa,143789,Electronics,13,11506,5
+CUST0240,55,Male,Kisumu,83892,Home & Living,1,18877,1
+CUST0241,53,Male,Eldoret,139743,Groceries,11,30446,1
+CUST0242,32,Female,Kisumu,164510,Fashion,6,34643,3
+CUST0243,55,Female,Nakuru,57917,Electronics,20,10656,4
+CUST0244,32,Male,Eldoret,120554,Home & Living,15,29670,4
+CUST0245,18,Male,Eldoret,69967,Electronics,12,7010,5
+CUST0246,22,Female,Kisumu,177123,Fashion,3,15551,4
+CUST0247,63,Male,Nakuru,153232,Health & Beauty,14,30565,4
+CUST0248,58,Male,Eldoret,55784,Electronics,4,23910,5
+CUST0249,21,Male,Kisumu,38300,Electronics,8,2747,1
+CUST0250,32,Male,Kisumu,92416,Groceries,14,28190,2
