@@ -15,4 +15,4 @@ It includes KPIs, charts, and slicers for analyzing sales performance.
 ## Preview
 Here’s a screenshot of the dashboard:
 
-![Dashboard Screenshot](MY FIVER IMAGE 1.png)
+![Dashboard Screenshot](MY%FIVER%20IMAGE%201.png)
