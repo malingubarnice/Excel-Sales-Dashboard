@@ -16,3 +16,6 @@ It includes KPIs, charts, and slicers for analyzing sales performance.
 Here’s a screenshot of the dashboard:
 
 ![Dashboard Screenshot](dashboard.png)
+
+## Live Preview
+👉 [Click here to view this project on GitHub](https://github.com/YourUsername/YourRepoName)
